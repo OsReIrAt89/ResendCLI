@@ -7,3 +7,4 @@ Please enter your apikey and the domain name registered in resend in the main pr
 You should run 
 `Install-Package Resend`
 in you Visual Studio Packet Manage Console.
+## You can branch your own to make translations or add features
